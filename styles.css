@@ -1,0 +1,38 @@
+.image {
+  width: 300px;
+  height: 200px;
+  padding-right: .5em;
+  padding-left: .5em;
+  padding-bottom: .10em;
+}
+
+.fact {
+  font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+.list{
+  list-style-type: none;
+  padding: 0;
+}
+.card {
+  width: 330px;
+  border: 1px solid rgb(67, 25, 84);
+  box-shadow: 15px 10px 1px 0px rgb(217, 184, 230);
+  padding-right: .5em;
+  padding-left: .5em;
+  padding-bottom: .5em;
+}
+.box {
+  width: 300px;
+  border: 1px solid rgb(67, 25, 84);
+  box-shadow: 10px 5px 1px 0px rgb(217, 184, 230);
+  padding-right: .5em;
+  padding-left: .5em;
+  padding-bottom: .10em;
+}
+
+
